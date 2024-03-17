@@ -20,3 +20,23 @@ This tool serves as a preparatory step for another project involving an AI model
 #### Future Scope:
 Integration with the AI Image Classifier project ([GitHub Link](https://github.com/Ahmed-Sleem/ai-image-classifier-with-custom-image-categories-and-streamlit-gui)) to facilitate pattern recognition in trading data. By feeding the generated chart images into the AI model, users can automate the process of identifying and classifying various trading patterns, enhancing trading strategies and decision-making processes.
 
+#### preview :
+- csv file :
+
+```csv
+
+Date	Open	High	Low	Close
+2024-01-01	100	120	95	110
+2024-01-02	110	115	100	105
+2024-01-03	105	120	100	110
+2024-01-04	108	110	105	112
+2024-01-05	112	115	110	113
+
+```
+
+- graph :
+
+![chart](https://github.com/Ahmed-Sleem/CSV-to-Chart-Image-Converter-stramlit-app/assets/128150121/e36e2e90-288b-4cd4-844f-2f731f9663b3)
+
+
+  
